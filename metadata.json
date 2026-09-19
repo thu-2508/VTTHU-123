@@ -1,0 +1,7 @@
+{
+  "name": "Leisure Quest – Unit 1 Adventure",
+  "description": "Educational English 8 review game for Unit 1: Leisure Time - Teacher: Vu Thi Mai Thu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
